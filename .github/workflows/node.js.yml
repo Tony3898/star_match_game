@@ -25,5 +25,10 @@ jobs:
       with:
         node-version: ${{ matrix.node-version }}
     - run: npm i -g yarn
-    - run: npm run predeploy
-    - run: npm run deploy
+    - name: Build page
+      run: npm run build
+    - name: Deploy to gh-pages
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
+          publish_dir: ./build

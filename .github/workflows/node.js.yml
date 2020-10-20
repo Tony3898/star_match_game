@@ -24,3 +24,5 @@ jobs:
       uses: actions/setup-node@v1
       with:
         node-version: ${{ matrix.node-version }}
+    - npm run predeploy
+    - npm run deploy

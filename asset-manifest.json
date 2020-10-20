@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Tony3898/star_match_game/static/css/main.966e19ac.chunk.css",
+    "main.js": "/Tony3898/star_match_game/static/js/main.b75bb2c1.chunk.js",
+    "main.js.map": "/Tony3898/star_match_game/static/js/main.b75bb2c1.chunk.js.map",
+    "runtime-main.js": "/Tony3898/star_match_game/static/js/runtime-main.e82ef4c8.js",
+    "runtime-main.js.map": "/Tony3898/star_match_game/static/js/runtime-main.e82ef4c8.js.map",
+    "static/js/2.ff7328ed.chunk.js": "/Tony3898/star_match_game/static/js/2.ff7328ed.chunk.js",
+    "static/js/2.ff7328ed.chunk.js.map": "/Tony3898/star_match_game/static/js/2.ff7328ed.chunk.js.map",
+    "index.html": "/Tony3898/star_match_game/index.html",
+    "precache-manifest.c38399ee91a2ee18e9ce54f4337be924.js": "/Tony3898/star_match_game/precache-manifest.c38399ee91a2ee18e9ce54f4337be924.js",
+    "service-worker.js": "/Tony3898/star_match_game/service-worker.js",
+    "static/css/main.966e19ac.chunk.css.map": "/Tony3898/star_match_game/static/css/main.966e19ac.chunk.css.map",
+    "static/js/2.ff7328ed.chunk.js.LICENSE.txt": "/Tony3898/star_match_game/static/js/2.ff7328ed.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e82ef4c8.js",
+    "static/js/2.ff7328ed.chunk.js",
+    "static/css/main.966e19ac.chunk.css",
+    "static/js/main.b75bb2c1.chunk.js"
+  ]
+}
